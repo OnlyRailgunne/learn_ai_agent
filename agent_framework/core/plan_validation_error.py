@@ -1,0 +1,2 @@
+class PlanValidationError(ValueError):
+    pass
